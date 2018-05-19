@@ -1,3 +1,5 @@
+# Note This repository has moved to https://github.com/kogosoftwarellc/open-api/tree/master/packages/fs-routes
+
 # fs-routes [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
 > Scan a filesystem for route files.
 
